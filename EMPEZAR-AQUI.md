@@ -45,10 +45,11 @@ El error ocurre porque:
 Si quieres compartir vía URL:
 
 ```bash
-1. Crea repositorio en GitHub
-2. Sube este código
-3. En Foundry, usa la URL: 
-   https://raw.githubusercontent.com/[tu-usuario]/loading-screen/main/module.json
+1. El código ya está en GitHub:
+   https://github.com/milygardiol/loading-screen-2.3.0
+   
+2. En Foundry, usa la URL: 
+   https://raw.githubusercontent.com/milygardiol/loading-screen-2.3.0/main/module.json
 ```
 
 ---

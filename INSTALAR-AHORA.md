@@ -70,7 +70,7 @@ Si tienes la URL correcta del manifest:
 1. **En Foundry: Settings → Manage Modules → Install Module**
 2. **En "Manifest URL", pega:**
    ```
-   https://raw.githubusercontent.com/tu-usuario/loading-screen/main/module.json
+   https://raw.githubusercontent.com/milygardiol/loading-screen-2.3.0/main/module.json
    ```
 3. **Haz clic en "Install"**
 
